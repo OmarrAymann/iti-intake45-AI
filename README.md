@@ -30,5 +30,5 @@
 
  Feel free to submit issues or pull requests if you find any improvements or wish to contribute to the content.
 
-**Contact:** [3omargmi@gmmail.com]  
+**Contact:** [3omargmi@gmail.com]  
 **LinkedIn:** [www.linkedin.com/in/omar-elgema3y]
