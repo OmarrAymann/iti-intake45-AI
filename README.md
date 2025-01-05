@@ -1,6 +1,6 @@
 # iti-intake45-AI
 
-Welcome to the repository documenting my journey through the 9-month **ITI Machine Learning and Artificial Intelligence Program**. This repository contains a collection of resources, projects, and notes covering the fundamentals and advanced topics I have learned during the program.
+  Welcome to the repository documenting my journey through the 9-month **ITI Machine Learning and Artificial Intelligence Program**. This repository contains a collection of resources, projects, and notes covering the fundamentals and advanced topics I have learned during the program.
 
 ## Key Topics Covered
 
@@ -26,8 +26,9 @@ Welcome to the repository documenting my journey through the 9-month **ITI Machi
 - Computer Vision.
 - Reinforcement Learning.
 
-Feel free to submit issues or pull requests if you find any improvements or wish to contribute to the content.
+![WhatsApp Image 2025-01-05 at 11 40 01 PM](https://github.com/user-attachments/assets/ab493425-d282-490c-bef9-ca8a0210131e)
 
-**Author:** Omar Ayman  
+ Feel free to submit issues or pull requests if you find any improvements or wish to contribute to the content.
+
 **Contact:** [3omargmi@gmmail.com]  
 **LinkedIn:** [www.linkedin.com/in/omar-elgema3y]
