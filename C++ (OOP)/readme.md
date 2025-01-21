@@ -2,8 +2,6 @@
 
 - This folder contains projects , examples, and exercises that demonstrate my understanding of OOP concepts using C++.
 
-- These materials were created as part of my training at the **Information Technology Institute (ITI)**.
-
 ---
 
 ## 🛠 What did i Learn?
