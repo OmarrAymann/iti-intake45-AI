@@ -32,3 +32,22 @@ Through this course, I gained a strong foundation in **data preparation techniqu
    - Visualizing data distributions and transformations using **Matplotlib** and **Seaborn**.
 
 ---
+# Web Scraping using Selenium
+---
+
+## 🛠️ What Did I Learn?
+Through this course, I gained a strong foundation in **web scraping** and **automation** using Selenium. Here’s a breakdown of the key concepts I mastered:
+
+### 1. **Selenium Basics**
+   - Setting up Selenium with ChromeDriver 
+   - Navigating web pages using `get()` and `back()`.
+   - Locating elements using method `find_element_by_xpath()`.
+
+### 2. **Handling Common Challenges**
+   - Dealing with pop-ups and alerts.
+   - Waiting for elements to load using **explicit** and **implicit** waits.
+
+### 3. **Storing Extracted Data**
+   - Saving data to CSV and JSON
+   - Organizing and cleaning scraped data for analysis.
+---
