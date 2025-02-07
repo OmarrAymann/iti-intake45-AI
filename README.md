@@ -5,26 +5,28 @@
 ## Key Topics Covered
 
 ### Fundamentals
-- **C Programming**: Basics of C programming including data structures and algorithms.
-- **C++ (OOP)**: Object-oriented programming concepts like inheritance, polymorphism, and encapsulation.
- - **Python Programming**: Essential libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
-- **Mathematics for Machine Learning**: Linear algebra and probability.
-- **Data Preprocessing**: Handling missing data, encoding categorical variables, and feature scaling.
+- **C Programming**: Basics of C programming including data structures and algorithms
+- **C++ (OOP)**: Object-oriented programming concepts like inheritance, polymorphism, and encapsulation
+ - **Python Programming**: Essential libraries such as NumPy, Pandas, Matplotlib, and Seaborn
+- **Mathematics for Machine Learning**: Linear algebra and probability
+- **Data Preprocessing**: Handling missing data, encoding categorical variables, and feature scaling
 
 ### Big Data & Web Scraping
-- **Web Scraping**: Techniques and tools.
+- **Web Scraping**: Techniques and tools
 - **Big Data Fundamentals**
 
 ### Core Machine Learning Topics
-- Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, etc.
-- Unsupervised Learning: Clustering, Dimensionality Reduction.
-- Model Evaluation: Cross-validation, Grid Search, and metrics like precision, recall, and F1-score.
+- **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, etc
+- **Unsupervised Learning**: Clustering, Dimensionality Reduction
+- **Model Evaluation**: Cross-validation, Grid Search, and metrics like precision, recall, and F1-score
 
 ### Advanced AI Topics
-- Deep Learning Architectures.
-- NLP.
-- Computer Vision.
-- Reinforcement Learning.
+- Reinforcement Learning
+- Deep Learning Architectures
+- NLP
+- Computer Vision
+- Time series
+
 
 ![WhatsApp Image 2025-01-05 at 11 40 01 PM](https://github.com/user-attachments/assets/ab493425-d282-490c-bef9-ca8a0210131e)
 
