@@ -18,10 +18,9 @@
 ### Core Machine Learning Topics
 - **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, etc
 - **Unsupervised Learning**: Clustering, Dimensionality Reduction
-- **Model Evaluation**: Cross-validation, Grid Search, and metrics like precision, recall, and F1-score
+
 
 ### Advanced AI Topics
-- Reinforcement Learning
 - Deep Learning Architectures
 - NLP
 - Computer Vision
