@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730464010 source:c:\users\digital\desktop\c++\lab1\class emp\main.cpp
+	<iostream>
+	<string.h>
+
