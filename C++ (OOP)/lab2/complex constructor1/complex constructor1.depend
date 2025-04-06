@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730555249 source:c:\users\digital\desktop\complex constructor1\main.cpp
+	<iostream>
+	<string.h>
+

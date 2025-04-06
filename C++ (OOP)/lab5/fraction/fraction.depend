@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730890980 source:c:\users\digital\desktop\fraction\main.cpp
+	<iostream>
+	<string.h>
+
+1730890768 source:c:\users\digital\desktop\c++\lab4\fraction\main.cpp
+	<iostream>
+	<string.h>
+
