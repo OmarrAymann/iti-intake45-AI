@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729188629 source:c:\users\digital\desktop\two dim array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729185029 source:c:\users\digital\desktop\c projects\two dim array\main.c
+	<stdio.h>
+	<stdlib.h>
+

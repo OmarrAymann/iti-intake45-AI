@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1729695235 source:c:\users\digital\desktop\id menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+
