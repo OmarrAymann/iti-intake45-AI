@@ -1,0 +1,69 @@
+{
+    "omar@gmail.com": {
+        "first_name": "omar",
+        "last_name": "ayman",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01019987878",
+        "projects": []
+    },
+    "omaarr@gmail.com": {
+        "first_name": "asdaf",
+        "last_name": "asfag",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01054887878"
+    },
+    "asdf@gmail.com": {
+        "first_name": "aasd",
+        "last_name": "asdsda",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01025447784",
+        "projects": [
+            {
+                "title": "asdaf",
+                "details": "asssssssssf",
+                "start_date": "2025-01-01",
+                "end_date": "2020-01-01"
+            }
+        ]
+    },
+    "omarayman@gmail.com": {
+        "first_name": "omar",
+        "last_name": "aymann",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01063998916",
+        "projects": [
+            {
+                "title": "python",
+                "details": "python project",
+                "start_date": "2020-11-11",
+                "end_date": "2020-12-12"
+            }
+        ]
+    },
+    "poooo@gmail.com": {
+        "first_name": "pooooo",
+        "last_name": "pooooo",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01025448758",
+        "projects": []
+    },
+    "amrkahla@mail.com": {
+        "first_name": "amr",
+        "last_name": "amr",
+        "password": "Amr1023*",
+        "mobile_phone": "01204533303"
+    },
+    "ahmed@gmail.com": {
+        "first_name": "ahmed",
+        "last_name": "ahmed",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01024115587"
+    },
+    "ali@gmail.com": {
+        "first_name": "ali",
+        "last_name": "ali",
+        "password": "Asdfghjkl123@",
+        "mobile_phone": "01022115544",
+        "projects": []
+    }
+}
